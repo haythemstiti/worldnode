@@ -1,0 +1,17 @@
+{
+  "name": "express-app5",
+  "version": "0.0.0",
+  "description": "ExpressApp5",
+  "main": "app.js",
+  "author": {
+    "name": "Haythem",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "mysql": "^2.10.2",
+    "stylus": "*",
+    "underscore": "^1.8.3"
+  }
+}
